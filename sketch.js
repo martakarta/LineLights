@@ -1,7 +1,7 @@
 // getting started with p5js
 
 var w = 1200;
-var h = 700;
+var h = 400;
 var step = 35;
 var points = [];
 var startpoint = null;
