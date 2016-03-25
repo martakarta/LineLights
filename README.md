@@ -15,7 +15,6 @@ This project started in a really analogue way. Two times 10 people were asked to
 
 ##### The analogue results:
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/["images"]/1an.png width="19%" />
 
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/["images"]/1an.png"/>
 
@@ -26,4 +25,4 @@ The next goal was to translate the analogue into a digital algorithm using p5.js
 
 The following logical explanation allows to create a grid of any misure, in which every point has an index and a mathematical relationship to its neighbour points.
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/["images"]/grid"/>
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/["images"]/grid.PDF"/>
