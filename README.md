@@ -29,9 +29,9 @@ The following logical explanation allows to create a grid of any misure, in whic
 
 The first neighbour code:
 
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours.gif"/width="110%">
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours.gif"/width="150%">
-
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours2.png"/width="110%">
 
 After the raw neighbour points cose war written, was the moment to style the line, make the algorithm interesting and find some application. 
 
