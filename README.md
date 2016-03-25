@@ -1,6 +1,7 @@
 # LineLights
-###  An *Algorithm Project* in the Class *Eingabe Ausgabe* by Fabian Morón Zirfas. 
-#### The goal of this project was to write an algorithm starting in a really analogue way. Two times 10 people were asked to follow the given instructions and perform their algorithm.
+###  This *Algorithm* is my contribution to the topic Generative Design in *Steel Ant - Eingabe Ausgabe*, a class taught by Fabian Morón Zirfas, University of applied science - Potsdam (Germany).
+#### This project started in a really analogue way. Two times 10 people were asked to follow some instructions and perform an algorithm.
+
 ##### Given Instructions: 
 ######  1.  Fix the cord on the grid (on any pin).
 ######  2.  Create a pattern.
@@ -8,9 +9,7 @@
 ######  4.  You must use the whole length of the cord.
 ######  5.  Fix the end of the cord to any pin.
 
-
-
-##### Some of the analogue results:
+##### The analogue results:
 
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/IMG_4503.JPG"/>
 
