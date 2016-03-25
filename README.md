@@ -12,6 +12,7 @@
 ##### The analogue results:
 
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/1an.png"/>
+
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/2an.png"/>
 
 View live demonstration site at http://martakarta.github.io/LineLights
