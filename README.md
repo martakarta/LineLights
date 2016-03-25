@@ -36,7 +36,7 @@ The following logical explanation allows to create a grid of any misure, in whic
 
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours2.png"/>
 
-After the raw neighbour points cose war written, was the moment to style the line, make the algorithm interesting and find some application. 
+After the raw code for the neighbour points was written, was the moment to style the line, make the algorithm visual interesting and find some application of use. 
 
 ### Mockup
 
