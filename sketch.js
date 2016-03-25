@@ -1,13 +1,11 @@
-// getting started with p5js
-
 var w = 1200;
 var h = 700;
-var step = 35;
+var step = 35; //distance between the points
 var points = [];
 var startpoint = null;
 var nextpoint = null;
 
-
+// the line will be drawn connecting one point to its neighbours point. The reached point will be the next starting point in the next repetition.
 var get_neighbours = function(ndx, list, width, height, steps) {
   var w_steps = (width / steps) - 1;
   var h_steps = (height / steps) - 1;
@@ -185,11 +183,12 @@ function draw(){
  // fill(0,0,0,80);
   noStroke();
 
-  
+  // real Line
   strokeWeight(4);
   stroke (0, 126, 125, 170);
   line(startpoint.x, startpoint.y, nextpoint.x, nextpoint.y );
-
+  
+  // "fake" lines, running parallel..just for styling the canvas
   strokeWeight(4);
   stroke (0,250,0,70);
   line(startpoint.x + step , startpoint.y + step , nextpoint.x + step, nextpoint.y+ step);
