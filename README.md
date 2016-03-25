@@ -38,6 +38,10 @@ The following logical explanation allows to create a grid of any misure, in whic
 
 After the raw code for the neighbour points was written, was the moment to style the line, make the algorithm visual interesting and find some application of use. 
 
+In the final version the code draws a multiparallel line in different colours, what gives more dinamic to the canvas.
+http://martakarta.github.io/LineLights
+
+
 ### Mockup
 
 This algorithm could be used in public enviroments as light walls, for example in airports also showing the arrivals and departures of the plains.
