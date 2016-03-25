@@ -15,7 +15,7 @@ This project started in a really analogue way. Two times 10 people were asked to
 
 ##### The analogue results:
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/1an.png"/>
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/["Immages"]/1an.png"/>
 
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/2an.png"/>
 
@@ -23,3 +23,5 @@ This project started in a really analogue way. Two times 10 people were asked to
 The next goal was to translate the analogue into a digital algorithm using p5.js. The main difficulty was to create a grid, in which the programm could connect a starting point to one of its neighbour points and set the reached point as the new starting point for the next repetition.
 
 The following logical explanation allows to create a grid of any misure, in which every point has an index and a mathematical relationship to its neighbour points.
+
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/grid"/>
