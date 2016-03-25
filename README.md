@@ -3,7 +3,8 @@
 
 View live demonstration site at http://martakarta.github.io/LineLights
 
-#### This project started in a really analogue way. Two times 10 people were asked to follow some instructions and perform an algorithm.
+#### Analogue Algorithm
+This project started in a really analogue way. Two times 10 people were asked to follow some instructions and perform an algorithm.
 
 ##### Given Instructions: 
 ######  1.  Fix the cord on the grid (on any pin).
