@@ -3,7 +3,7 @@
 
 View live demonstration site at http://martakarta.github.io/LineLights
 
-#### Analogue Algorithm
+### Analogue Algorithm
 This project started in a really analogue way. Two times 10 people were asked to follow some instructions and perform an algorithm.
 
 ##### Given Instructions: 
@@ -19,4 +19,5 @@ This project started in a really analogue way. Two times 10 people were asked to
 
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/2an.png"/>
 
-View live demonstration site at http://martakarta.github.io/LineLights
+### Digital Algorithm
+The next goal was to translate the analogue into a digital algorithm using p5.js.
