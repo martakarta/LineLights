@@ -4,7 +4,7 @@
 
 #### Some of the analogue results:
 
-![alt tag](https://raw.githubusercontent.com/martakarta/LineLights/master/path/to/IMG_4503.jpg)
+![Alt text](relative/path/to/img.jpg?raw=true "IMG_4503.JPG")
 
 
 View live demonstration site at http://martakarta.github.io/LineLights
