@@ -15,7 +15,7 @@ This project started in a really analogue way. Two times 10 people were asked to
 
 ##### The analogue results:
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/["images"]"/1an.png width="19%" />
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/["images"]/1an.png width="19%" />
 
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/["images"]/1an.png"/>
 
