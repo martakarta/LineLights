@@ -4,7 +4,7 @@
 
 #### Some of the analogue results:
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/IMG_4503.JPG" width="19%"  />
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/IMG_4503.JPG"/>
 
 
 View live demonstration site at http://martakarta.github.io/LineLights
