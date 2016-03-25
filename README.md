@@ -31,7 +31,7 @@ The first neighbour code:
 
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours.gif"/>
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours2.png"/width="110%">
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours2.png"/>
 
 After the raw neighbour points cose war written, was the moment to style the line, make the algorithm interesting and find some application. 
 
