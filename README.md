@@ -29,7 +29,7 @@ The following logical explanation allows to create a grid of any misure, in whic
 
 The first neighbour code:
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours.gif"/width="110%">
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours.gif"/>
 
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/neighbours2.png"/width="110%">
 
