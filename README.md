@@ -39,6 +39,6 @@ After the raw neighbour points cose war written, was the moment to style the lin
 
 This algorithm could be used in public enviroments as light walls, for example in airports also showing the arrivals and departures of the plains.
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/m5.pdf"/>
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/m1.png"/>
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/mockup1.pdf"/>
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/m2.png"/>
