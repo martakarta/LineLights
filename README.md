@@ -4,7 +4,7 @@
 
 #### Some of the analogue results:
 
-![alt tag](https://raw.githubusercontent.com/martakarta/LineLights/branch/path/to/IMG_4503.jpg)
+![alt tag](https://raw.githubusercontent.com/martakarta/LineLights/master/path/to/IMG_4503.jpg)
 
 
 View live demonstration site at http://martakarta.github.io/LineLights
