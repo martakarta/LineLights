@@ -25,4 +25,11 @@ The next goal was to translate the analogue into a digital algorithm using p5.js
 
 The following logical explanation allows to create a grid of any misure, in which every point has an index and a mathematical relationship to its neighbour points.
 
-<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/grid.pdf"/>
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/grid.png"/>
+
+The first neighbour code:
+
+
+After the raw neighbour points cose war written, was the moment to style the line, make the algorithm interesting and find some application. 
+
+### Mockup
