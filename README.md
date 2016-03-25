@@ -1,5 +1,5 @@
 # LineLights
-###  This *Algorithm* is my contribution to the topic Generative Design in the class *Steel Ant - Eingabe Ausgabe* taught by Fabian Morón Zirfas, University of applied science - Potsdam (Germany).
+###  This *Algorithm* is my contribution to the topic Generative Design in the class *Steel Ant - Eingabe Ausgabe* taught by Fabian Morón Zirfas,     University of applied science - Potsdam (Germany).
 
 View live demonstration site at http://martakarta.github.io/LineLights
 
