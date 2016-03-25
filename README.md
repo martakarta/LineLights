@@ -36,3 +36,9 @@ The first neighbour code:
 After the raw neighbour points cose war written, was the moment to style the line, make the algorithm interesting and find some application. 
 
 ### Mockup
+
+This algorithm could be used in public enviroments as light walls, for example in airports also showing the arrivals and departures of the plains.
+
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/m5.pdf"/>
+
+<img src="https://raw.githubusercontent.com/martakarta/LineLights/master/mockup1.pdf"/>
