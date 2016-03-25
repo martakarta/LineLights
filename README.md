@@ -1,5 +1,5 @@
 # LineLights
-###  This *Algorithm* is my contribution to the topic Generative Design in *Steel Ant - Eingabe Ausgabe*, a class taught by Fabian Morón Zirfas, University of applied science - Potsdam (Germany).
+###  This *Algorithm* is my contribution to the topic Generative Design in the class *Steel Ant - Eingabe Ausgabe* taught by Fabian Morón Zirfas, University of applied science - Potsdam (Germany).
 
 View live demonstration site at http://martakarta.github.io/LineLights
 
@@ -20,4 +20,4 @@ This project started in a really analogue way. Two times 10 people were asked to
 <img src="https://raw.githubusercontent.com/martakarta/LineLights/master/2an.png"/>
 
 ### Digital Algorithm
-The next goal was to translate the analogue into a digital algorithm using p5.js.
+The next goal was to translate the analogue into a digital algorithm using p5.js. The main difficulty was to create a grid, in which the programm could connect a starting point to one of its neighbour points and set the reached point as the new starting point for the next repetition.
